@@ -1,0 +1,53 @@
+- Lịch học: 3, 5 : 19h-22h
+- Thời gian học: 3 tiếng
++ 15p giải lao giữa giờ 
++ ~ 2 tiếng để học kiến thức mới 
++ ~ 45p -1h: để thực hành.
+- Bầu lớp trưởng: 
++ connect thông tin giữa PDT và lớp, Thầy giáo và lớp. 
++ Đại diện cho lớp, điểm danh. 
++ Lợi: biết trước thông tin liên quan đến tuyển dụng 
++ Có thể trao đổi các vấn đề với thầy giáo. 
+=> bỏ qua lớp trưởng 
+- Kênh giao tiếp: facebook và zalo: 
++ zalo là nới để mọi người hỏi đáp, trao đổi 
++ facebook là nới để thông báo thông tin
+=> báo với PDT để add thành viên trong lớp vào zalo
+
+road front-end
+lộ trình học của lớp: 28 Buổi
+- Buỏi 1: giới thiệu về git, cách sử dụng git. 
+- HTML/CSS: 4 buổi: 
++ HTML cơ bản (1): liệt kê các thẻ hay sử dụng, focus vào những thẻ hay nhầm 
++ CSS (2): các thuộc tính, thêm thư viện, animation 
++ Thực hành (1): 1 project: figma -> test khả năng cắt giao diện 3 giờ 
+- JS(10) 
++ Concept cơ bản: khai báo, vòng lặp, toán tử, 
++ Đi chi tiết vào Array, Object, Function: 
++ Làm project: Gồm các chức năng thêm, sửa, xoá, tạo mới (CRUD) = JS 
+- React(6): kiến thức cơ bản: 
+- Project(4)
++ (2) buổi đầu cùng thầy làm project + về nhà tự hoàn thiện project 
++ Chọn 1 dự án  và làm ở nhà: (1) => lên lớp gặp thầy 
++ (1) Bảo vệ: 
+
+- Rule của lớp: 
++ Mở camera. 
++ Hỏi đap: Tạo 1 file Q&A: QA, nộp bài tập.
++ support: Không nghỉ quá 3 buổi.
++ record buổi học: Không nên lạm dụng.
++ Làm bài tập về nhà. -> phạt nếu ai không làm:  10 chống đẩy với nam, 30s plank với nữ.  /1 bài
+
+- Tài liệu học.
++ https://www.w3schools.com/ => tra cứu. header + html + w3schools
++ http://freecodecamp.org/ => học để lấy chứng chỉ 
++ https://www.udemy.com/ => tổng hợp các khoá học đủ mọi thể loại: trang này hay dùng để đào tạo nhân viên ở các công ty
+                        + Xem hết 1 lượt. => biết overview ngôn ngữ có cái gì và làm được gì. 
+                        + Xem video + code theo: 
+                        + Tự làm 1 project học để vỡ ra nhiều cái mới. 
+                        + Project thật : hiểu kĩ hơn về ngôn ngữ
++ youtube.com
++ https://fullstack.edu.vn/courses/html-css
++ https://reactjs.org/
+
+BTVN: cài đặt git
