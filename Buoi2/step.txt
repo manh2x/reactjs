@@ -26,3 +26,4 @@ Các bước sử dụng git
 git status: kiểm tra trạng thái 
 git log: kiếm tra log
 
+ông A update source code 
