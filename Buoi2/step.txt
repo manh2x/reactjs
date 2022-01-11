@@ -1,3 +1,18 @@
 Các bước sử dụng git
 - Tạo tài khoản github
 - Tạo repo (nơi lưu trữ source code)
+
+3 khu vực lưu trữ source code : local 
+
+- Working space
+- Staging: git add: bê source vào Staging
+- Local: git commit : add to local
+=> Đẩy source code lên remote (nơi lưu trữ source code nhưng online)
+- lệnh git remote chỉ phải làm 1 lần đầu tiên khi khởi tạo project 
+
+
+- git init 
+- git add . ( đẩy source code từ working lên stagging)
+- git commit ( từ stagging -> local )
+- git remote (liên kết source local với source online )
+- git push ( đẩy source code lên)
