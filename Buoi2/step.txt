@@ -22,3 +22,7 @@ Các bước sử dụng git
 - git add . ( đẩy source code từ working lên stagging)
 - git commit ( từ stagging -> local )
 - git push ( đẩy source code lên)
+
+git status: kiểm tra trạng thái 
+git log: kiếm tra log
+
