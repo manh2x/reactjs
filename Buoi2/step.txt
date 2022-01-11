@@ -16,3 +16,9 @@ Các bước sử dụng git
 - git commit ( từ stagging -> local )
 - git remote (liên kết source local với source online )
 - git push ( đẩy source code lên)
+
+=> Sau khi push lần đầu tiên 
+
+- git add . ( đẩy source code từ working lên stagging)
+- git commit ( từ stagging -> local )
+- git push ( đẩy source code lên)
