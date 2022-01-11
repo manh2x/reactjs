@@ -1,0 +1,19 @@
+* {
+    margin: 5px;
+    padding: 10;
+}
+
+#number {
+    line-height: 15px;
+    word-spacing: 15px;
+}
+
+#number input:hover {
+    background-color: aquamarine;
+    border: 0;
+}
+
+#number input {
+    width: 30px;
+    height: 25px;
+}

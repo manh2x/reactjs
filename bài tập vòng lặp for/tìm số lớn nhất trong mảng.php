@@ -1,0 +1,19 @@
+<?php
+$array=[
+    20,80,100,25,30
+];
+$max="";
+for($i=0;$i<count($array);$i++){
+    if($max==""){
+        $max=$array[$i];
+        $tt=$i;
+    }
+    else{
+        if($array[$i]>$max){
+            $max=$array[$i];
+            $tt=$i;
+                }
+    }
+}
+echo "số lớn nhất là $max ở thứ tự $tt";
+?>
